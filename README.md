@@ -1,4 +1,4 @@
- <p align="right">
+[[ <p align="right">
 
 
 
@@ -23,3 +23,4 @@
 <br>
 
 ‎   ‎‎‎ $\large\textcolor{#dd0404}{\textsf{" sex will cover your black machinery "}}$ 
+](https://64.media.tumblr.com/4cbbab11f0558466657eeb5dbb394288/dbd6667f7722f27d-8e/s100x200/b47800b7f79a70e617dcf4a141997e8fed70443f.gifv)](https://64.media.tumblr.com/4cbbab11f0558466657eeb5dbb394288/dbd6667f7722f27d-8e/s100x200/b47800b7f79a70e617dcf4a141997e8fed70443f.gifv)
