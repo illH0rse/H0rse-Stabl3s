@@ -5,11 +5,11 @@
 
 ‎ ‎  ‎ ‎                     $\textcolor{#ffffff}{\textsf{Ill / Sickly }}$ ‎ ‎ ~~  ‎ ‎  $\textcolor{#ffffff}{\textsf{She / Her}}$
 
- $\textcolor{#ffffff}{\textsf{ |~ e }}$
+ $\textcolor{#ffffff}{\textsf{ | ~ e }}$
 
- $\textcolor{#ffffff}{\textsf{ |~ e }}$
+ $\textcolor{#ffffff}{\textsf{ | ~ e }}$
 
- $\textcolor{#ffffff}{\textsf{ |~ e }}$
+ $\textcolor{#ffffff}{\textsf{ | ~ e }}$
 
 <br>
 
