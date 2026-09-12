@@ -3,7 +3,7 @@
 ‎  ‎ ‎    ‎ ‎    ‎‎ ‎   ‎  ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎
 <br>
 
-‎ ‎  ‎ ‎                     $\textcolor{#ffffff}{\textsf{ill / sickly }}$ ‎ ‎ -  ‎ ‎  $\textcolor{#ffffff}{\textsf{she / her}}$
+‎ ‎  ‎ ‎                     $\textcolor{#ffffff}{\textsf{Ill / Sickly }}$ ‎ ‎ -  ‎ ‎  $\textcolor{#ffffff}{\textsf{She / Her}}$
 
  $\textcolor{#ffffff}{\textsf{ almost always offtab }}$  　-　 $\textcolor{#ffffff}{\textsf{ always w2i}}$
 
