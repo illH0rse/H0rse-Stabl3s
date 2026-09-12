@@ -1,7 +1,5 @@
 
 <img src="https://files.catbox.moe/y81ri4.png" width="250" align="left">
-
-<img src="https://files.catbox.moe/y81ri4.png" width="250" align="middle">
 ‎  ‎ ‎    ‎ ‎    ‎‎ ‎   ‎  ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎
 <br>
 
