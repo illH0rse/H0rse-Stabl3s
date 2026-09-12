@@ -3,9 +3,13 @@
 ‎  ‎ ‎    ‎ ‎    ‎‎ ‎   ‎  ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎
 <br>
 
-‎ ‎  ‎ ‎                     $\textcolor{#ffffff}{\textsf{Ill / Sickly }}$ ‎ ‎ -  ‎ ‎  $\textcolor{#ffffff}{\textsf{She / Her}}$
+‎ ‎  ‎ ‎                     $\textcolor{#ffffff}{\textsf{Ill / Sickly }}$ ‎ ‎ ~~  ‎ ‎  $\textcolor{#ffffff}{\textsf{She / Her}}$
 
- $\textcolor{#ffffff}{\textsf{ almost always offtab }}$  　-　 $\textcolor{#ffffff}{\textsf{ always w2i}}$
+ $\textcolor{#ffffff}{\textsf{ |~ e }}$
+
+ $\textcolor{#ffffff}{\textsf{ |~ e }}$
+
+ $\textcolor{#ffffff}{\textsf{ |~ e }}$
 
 <br>
 
