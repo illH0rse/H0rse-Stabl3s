@@ -5,11 +5,11 @@
 
 ‎ ‎  ‎ ‎                     $\textcolor{#ffffff}{\textsf{Ill / Sickly }}$ ‎ ‎ ~~  ‎ ‎  $\textcolor{#ffffff}{\textsf{She / Her}}$
 
- $\textcolor{#ffffff}{\textsf{ | ~ e }}$
+ $\textcolor{#ffffff}{\textsf{ | 18 yr old artist}}$
 
- $\textcolor{#ffffff}{\textsf{ | ~ e }}$
+ $\textcolor{#ffffff}{\textsf{ | Absolute nerd}}$
 
- $\textcolor{#ffffff}{\textsf{ | ~ e }}$
+ $\textcolor{#ffffff}{\textsf{ | THE Horse Rufioh }}$
 
 <br>
 
